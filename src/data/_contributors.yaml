@@ -1494,3 +1494,18 @@ maciejzasada:
     - author
   google: "104812516714503133849"
   email: maciej@unit9.com
+
+drott:
+  name:
+    given: Dominik
+    family: Röttsches
+  org:
+    name: Google
+    unit: Software engineer
+  country: Helsinki
+  role:
+    - author
+  homepage: ''
+  google:
+  twitter:
+  email: drott@google.com
