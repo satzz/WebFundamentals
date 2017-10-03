@@ -1,9 +1,20 @@
 toc:
 - title: Overview
   path: /web/tools/workbox/
-- title: Workbox Documentation
-  status: external
-  path: https://workboxjs.org/
-- title: Workbox Git Repository
+- title: Guides
+  section:
+  - title: Get Started
+    path: /web/tools/workbox/get-started.md
+  - title: How to Configure Workbox
+    path: /web/tools/workbox/guides/configure-workbox.md
+- title: Modules
+  section:
+  - title: Service Worker
+    section:
+    - title: workbox-precaching
+      path: /web/tools/workbox/modules/workbox-precaching
+  -title: Plugins
+  -title: Node
+- title: Github
   status: external
   path: https://github.com/GoogleChrome/workbox
