@@ -13,10 +13,10 @@ google_analytics_ids:
 home_url: "/ウェブ/"
 icon:
   path: "/web/images/web-fundamentals-icon192x192.png"
-name: ウェブ2
 tags:
 - html5
 - モバイル
 - パフォーマンス
 - ウェブ
-is_family_root: "true"
+is_family_root: false
+name: ウェブ
