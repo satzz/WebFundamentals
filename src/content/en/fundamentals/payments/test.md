@@ -15,3 +15,5 @@ forced to continue there.
     alt="This is an example of the 'receipt' view">
   </figure>
 </div>
+
+![foo](images/state01-receipt-view.png)
