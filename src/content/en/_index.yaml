@@ -6,8 +6,7 @@ landing_page:
     classname: devsite-landing-row-67
     items:
     - description: >
-          The average user visits more than 100 websites on their mobile
-          device every month, 
+          <div class="devsite-collapsible-section"></div> 
       image_path: images/hero-2x.png
 
 
