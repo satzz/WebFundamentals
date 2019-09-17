@@ -1,0 +1,12 @@
+---
+landing_page:
+  rows:
+  - classname: devsite-landing-row-67
+    heading: Learn How to Develop the Next Generation of Applications for the Web
+    items:
+    - description: "\n  The average user visits more than 100 websites on their mobile\n
+        \ device every month, and expectations for speed and quality are higher\n
+        \ than ever. These resources can help you supercharge your new or\n  existing
+        project with the next generation of web technologies in\n  order to deliver
+        fast, secure, and performant content to any screen.\n "
+      image_path: images/hero-2x.png
